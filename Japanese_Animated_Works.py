@@ -18,7 +18,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
-st.set_page_config(page_title="Minha Página", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="My page", layout="wide", initial_sidebar_state="expanded")
 
 # dowloading the df from kaggle and loading to use.
 dataset_path = kagglehub.dataset_download("crazygump/myanimelist-scrappind-a-decade-of-anime")
