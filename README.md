@@ -2,6 +2,26 @@
 
 ---
 
+## Questions to Be Answered
+
+1. What is the highest-rated work in the database?
+
+2. How many works were released each year?
+
+3. What is the most common genre in the database?
+
+4. What are the 4 works with the highest number of episodes?
+
+5. What is the average rating for each animation genre?
+
+6. Which are the 5 studios that produced the most works?
+
+7. Is there a relationship between rating and number of episodes in the animations?
+
+8. What are the most popular works from each decade?
+
+---
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
